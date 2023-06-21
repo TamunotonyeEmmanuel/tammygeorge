@@ -14,20 +14,20 @@ export default function footerSection() {
         <div className={styles.footer_line}></div>
         <div className={styles.footer_main}>
           <div className={styles.footer_links}>
-            <Link href="https://www.linkedin.com/in/samuel-nzubechi/">
+            <Link href="https://www.linkedin.com/in/tamunogeorge/">
               <p>
                 <span>LN</span>{" "}
                 <Image width="25" height="25" src={LinkedIn}></Image>
               </p>
             </Link>
 
-            <Link href="https://twitter.com/denzubechi">
+            <Link href="https://twitter.com/iamtammyGeorge">
               <p>
                 <span>TW</span>{" "}
                 <Image width="25" height="25" src={Twitter}></Image>
               </p>
             </Link>
-            <Link href="https://github.com/denzubechi">
+            <Link href="https://github.com/TamunotonyeEmmanuel">
               <p>
                 <span>GH</span>{" "}
                 <Image width="25" height="25" src={Github}></Image>
@@ -36,8 +36,8 @@ export default function footerSection() {
           </div>
           <p className={styles.copy}>
             Copyright ©{" "}
-            <Link href="https://github.com/denzubechi">Samuel Nzubechi</Link>{" "}
-            2022, All rights reserved.
+            <Link href="https://github.com/TamunotonyeEmmanuel">Tammy George</Link>{" "}
+            2023, All rights reserved.
           </p>
         </div>
       </footer>
