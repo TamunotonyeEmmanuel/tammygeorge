@@ -33,9 +33,9 @@ export default function AboutSection() {
                     </motion.div>{" "}
                     , meet
                   </h5>
-                  <h2>Samuel Nzubechi</h2>
+                  <h2>Tammy George</h2>
                   <p>
-                  An Experienced software engineer, passionate about building impactful applications. 
+                  An Experienced Ml Engineer and Software Engineer, passionate about building impactful applications. 
                   Specialized in full-stack web development with expertise in React/Nextjs, Node.js,Flask, and databases like MongoDB & PostgreSQL.
                   Skilled in backend architectures, including Docker, for scalable and efficient deployments,python for data processing and scripting.
                   Strong collaborator with excellent communication skills, working seamlessly with cross-functional teams 
@@ -57,7 +57,7 @@ export default function AboutSection() {
               <div className={styles.about_me_main_s2}>
                 <img
                   //src={Memoji}
-                  src="/nzubechi.jpeg"
+                  src="/me.jpg"
                   className={styles.about_me__memoji}
                   layout="fill"
                   alt="My memoji smiling face"
